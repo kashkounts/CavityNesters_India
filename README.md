@@ -1,0 +1,1 @@
+This project has been created as a part of an assignment for the course titled 'Intro to RS/GIS' conducted in late 2024 at the NCBS, Bengaluru. My broad objective was to map richness of cavity-nesting birds in India. I have uploaded theR- script used for the same in this repository.
